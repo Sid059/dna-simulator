@@ -12,13 +12,6 @@ A JavaScript project that simulates the DNA of Pila Aequor, a mysterious organis
 - **Batch Creation**: Automatically creates multiple viable specimens
 - **Genetic Analysis**: Finds the most related specimens in a population
 
-## Project Structure
-├── pAeqourFactory() # Main factory function for creating specimens
-├── returnRandBase() # Returns random DNA base (A, T, C, G)
-├── mockUpStrand() # Generates random 15-base DNA strand
-├── createSpecimen() # Creates multiple specimen instances
-└── findRelatedDNAs() # Finds most genetically similar specimens
-
 ## Methods Available
 
 ### Specimen Methods
